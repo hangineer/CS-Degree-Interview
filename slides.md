@@ -1,6 +1,8 @@
 ---
 # You can also start simply with 'default'
 theme: seriph
+favicon: 'https://cdn-icons-png.flaticon.com/512/3320/3320960.png'
+
 # Plugins
 # addons:
 #  - excalidraw
@@ -22,6 +24,10 @@ transition: slide-left
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
 layout: intro
+# TODO
+# qrcode
+
+
 ---
 
 ## 國立台北教育大學
@@ -83,11 +89,18 @@ transition: slide-up
 src: ./pages/intro-slides.md
 ---
 
-<!-- 作品介紹 -->
+<!-- 作品介紹 1 -->
 ---
 layout: two-cols
 layoutClass: gap-16
 src: ./pages/projects-slides.md
+---
+
+<!-- 作品介紹 2 -->
+---
+layout: two-cols
+layoutClass: gap-16
+src: ./pages/projects-slides_2.md
 ---
 
 <!-- 研究計畫介紹 -->
@@ -98,5 +111,7 @@ src: ./pages/research-slides.md
 
 <!-- 短中長期規劃 -->
 ---
+layout: two-cols
+layoutClass: gap-4
 src: ./pages/plan-slides.md
 ---

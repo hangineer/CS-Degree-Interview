@@ -1,39 +1,12 @@
 # 短中長期規劃
+| 計畫 | 內容 |
+| --- | --- |
+| 短期 | 提升英語能力<br>提升技術廣度 |
+| 中期 | 獲得碩士學位<br>成為資深工程師 |
+| 長期 | 獲得海外工作機會或進入外商 |
 
-<div grid="~ cols-2 gap-4">
-<div>
-
-You can use Vue components directly inside your slides.
-
-We have provided a few built-in components like `<Tweet/>` and `<Youtube/>` that you can use directly. And adding your custom components is also super easy.
-
-```html
-<Counter :count="10" />
-```
-
-<!-- ./components/Counter.vue -->
-<Counter :count="10" m="t-4" />
-
-Check out [the guides](https://sli.dev/builtin/components.html) for more.
-
-</div>
-<div>
-
-```html
-<Tweet id="1390115482657726468" />
-```
-
-<Tweet id="1390115482657726468" scale="0.65" />
-
-</div>
-</div>
-
-<!--
-Presenter note with **bold**, *italic*, and ~~striked~~ text.
-
-Also, HTML elements are valid:
-<div class="flex w-full">
-  <span style="flex-grow: 1;">Left content</span>
-  <span>Right content</span>
-</div>
--->
+::right::
+<br />
+<br />
+<br />
+<img src='https://www.techhub.in.th/wp-content/uploads/2023/02/shutterstock_2157023949-scaled.jpg' width='450px'/>
