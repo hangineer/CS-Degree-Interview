@@ -34,6 +34,7 @@ layout: intro
 114 學年度資訊科學系碩士在職專班
 
 Hannah Wang 王涵
+<br />
 2025.02
 
 <!-- <div @click="$slidev.nav.next" class="mt-12 py-1" hover:bg="white op-10">
