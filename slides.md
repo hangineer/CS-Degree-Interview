@@ -62,7 +62,7 @@ class: text-center
 
 # Outlines
 
-- **經歷簡介**
+- **自我介紹＆經歷簡介**
 - **作品介紹**
 - **研究計畫介紹**
 - **短中長期規劃**
@@ -108,11 +108,11 @@ src: ./pages/projects-slides_2.md
 ---
 level: 2
 src: ./pages/research-slides.md
----
+<!-- --- -->
 
 <!-- 短中長期規劃 -->
----
+<!-- ---
 layout: two-cols
 layoutClass: gap-4
 src: ./pages/plan-slides.md
----
+--- -->

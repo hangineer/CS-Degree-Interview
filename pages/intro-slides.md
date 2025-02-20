@@ -6,12 +6,21 @@
 %%{init: { 'logLevel': 'debug', 'theme': 'forest' } }%%
 timeline
 
-    2018.07 : 大學畢業
+    2018.06 : 「靜宜大學 - 企業管理學系」畢
     2018.07 : 安親班教師 : ESL 美語儲備教師
     2022.03 : 全職於「資策會」進修
     2022.10 : 九七科技：前端工程師
     2024.11 : 星宇航空：前端工程師
 ```
+<div class="abs-br m-6 text-xl">
+  <a
+    href="https://www.cake.me/s--IsMtR91vysbvX0UyAygejA--/han"
+    target="_blank"
+    class="slidev-icon-btn"
+  >
+    <carbon:result />
+  </a>
+</div>
 
 <!-- https://sli.dev/guide/animations.html#click-animation -->
 <!-- <img
