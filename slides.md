@@ -24,9 +24,6 @@ transition: slide-left
 # enable MDC Syntax: https://sli.dev/features/mdc
 mdc: true
 layout: intro
-# TODO
-# qrcode
-
 
 ---
 
@@ -36,12 +33,17 @@ layout: intro
 Hannah Wang 王涵
 <br />
 2025.02
+<br />
+[簡報連結](https://cs-degree-interview.zeabur.app/)
 
 <!-- <div @click="$slidev.nav.next" class="mt-12 py-1" hover:bg="white op-10">
   Press Space for next page <carbon:arrow-right />
 </div> -->
 
 <div class="abs-br m-6 text-xl">
+  <a class="">
+    <img src="https://i.imgur.com/nbboXJh.jpeg" width="80" />
+  </a>
   <a href="https://medium.com/@hanforwork896" target="_blank" class="slidev-icon-btn">
     <carbon:logo-medium />
   </a>
