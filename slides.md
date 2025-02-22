@@ -59,12 +59,13 @@ The last comment block of each slide will be treated as slide notes. It will be 
 ---
 transition: fade-out
 layout: center
-class: text-center
+class: text-left
 ---
 
 # Outlines
 
-- **自我介紹＆經歷簡介**
+- **經歷簡介**
+- **技能與證照**
 - **作品介紹**
 - **研究計畫介紹**
 - **短中長期規劃**
@@ -75,7 +76,7 @@ Learn more: https://sli.dev/features/slide-scope-style
 -->
 
 <style>
-h1 {
+/* h1 {
   background-color: #2B90B6;
   background-image: linear-gradient(45deg, #4EC5D4 10%, #146b8c 20%);
   background-size: 100%;
@@ -83,13 +84,19 @@ h1 {
   -moz-background-clip: text;
   -webkit-text-fill-color: transparent;
   -moz-text-fill-color: transparent;
-}
+} */
 </style>
 
 <!-- 經歷簡介 -->
 ---
 transition: slide-up
 src: ./pages/intro-slides.md
+---
+
+<!-- 技能與證照 -->
+---
+layout: slide-up
+src: ./pages/skills-slides.md
 ---
 
 <!-- 作品介紹 1 -->
@@ -110,7 +117,12 @@ src: ./pages/projects-slides_2.md
 ---
 level: 2
 src: ./pages/research-slides.md
-<!-- --- -->
+---
+
+---
+layout: center
+class: text-center
+src: ./pages/end-slides.md
 
 <!-- 短中長期規劃 -->
 <!-- ---
@@ -118,3 +130,4 @@ layout: two-cols
 layoutClass: gap-4
 src: ./pages/plan-slides.md
 --- -->
+

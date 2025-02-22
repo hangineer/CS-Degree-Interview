@@ -12,24 +12,28 @@
 flowchart LR
   A["<img src='https://icons.veryicon.com/png/o/miscellaneous/social-applet-1/user-201.png' width='50px'/><br/>前端工程師"]
   newLines["`過去補教工作經驗`"]
-  B["`
-  -如何幫助身障學生
-  -如何解決學生注意力不足
-  -如何提升學習成效`"]
+  B["<div align='left'>
+  - 如何幫助身障學生<br/>
+  - 如何解決學生注意力不足<br/>
+  - 如何提升學習成效</div>"]
   A --> newLines --> B
-
 ```
-
 
 ---
 
 # 研究背景
-1. 現今的教育環境現場
-2. 如何幫助身障學生（線上、線下）
 
----
+<div class="flex justify-between gap-8">
+  <ul class="mt-4 text-lg">
+    <li>現今的教育環境</li>
+    <li>如何幫助身障學生（線上）</li>
+  </ul>
+  <img src="https://i.imgur.com/NiiEUqf.jpeg" width="350" class="rounded-lg shadow-lg">
+</div>
 
-# 預期成果
+<!-- --- -->
+
+<!-- # 預期成果
 * 改進前端原型：
   * 開發一個具有更高可訪問性和互動性功能的教育軟體前端原型。原型需整合 WAI-ARIA 指南
 * 建立設計指南：
@@ -37,5 +41,4 @@ flowchart LR
 * 研究報告：
   * 包括文獻綜述、原型開發過程、用戶測試結果、以及最終的設計指南
 * 教育研討會或工作坊：
-  * 透過工作坊提供一系列實際操作的機會，並深入探討無障礙技術的執行細節
-
+  * 透過工作坊提供一系列實際操作的機會，並深入探討無障礙技術的執行細節 -->
